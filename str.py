@@ -1,4 +1,4 @@
-first_name="Eeshal "
+first_name="Eeshal"
 Last_name="Qadeer"
 full_name= first_name + Last_name
 example= "Yeah "*6
