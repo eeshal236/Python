@@ -14,5 +14,3 @@ for s in range(20,60,2):
 
 for d in range(60,10,-2):
     print(d)
-
-## I will Ask a thing from teacher about LMS
